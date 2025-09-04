@@ -1,0 +1,5 @@
+{
+  "name": "Muqaddas Traders Grocery",
+  "description": "A clean and modern mobile web app for Muqaddas Traders, allowing users to browse products, add them to a cart, and place orders via WhatsApp.",
+  "requestFramePermissions": []
+}
